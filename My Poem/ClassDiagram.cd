@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CControl_poem" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAoAAAAAAQAgAEAAAAAAAAAASAAAAAA=</HashCode>
+      <FileName>Control_poem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CControl_user" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAAAAAAACAgAAAABAgAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Control_user.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnroll" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAAAAAAAAAAgABAAAABAAAAAAAIAAIAEAAAAAAA=</HashCode>
+      <FileName>Enroll.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLogin" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEBAAAAAAAAAIABAAAAAAAAACAAAABAAEgAAAAAA=</HashCode>
+      <FileName>Login.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPoemApp" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAACAAAAAAEAIQAAAAAUAAAAAA=</HashCode>
+      <FileName>My Poem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPoemDlg" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAABEAAQCAADAIAJAAAABCDEAAAQQAEACggAAQAAA=</HashCode>
+      <FileName>My PoemDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPerson" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAACAAAAIAJAAAAAADAAAIAAAEAAAAAAAAAE=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoem" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQACAAEAAAAAAAAQAAAAAAAgAAAAwAAAAAAAAAAA=</HashCode>
+      <FileName>Poem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUser" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAACCAI=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

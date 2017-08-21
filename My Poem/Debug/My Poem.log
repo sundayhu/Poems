@@ -1,0 +1,30 @@
+﻿生成启动时间为 2016/1/11 14:58:03。
+     1>项目“F:\C++\My Poem\My Poem\My Poem\My Poem.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\My Poem.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "My PoemDlg.cpp"
+         My PoemDlg.cpp
+     1>f:\c++\my poem\my poem\my poem\my poemdlg.cpp(118): warning C4101: “i”: 未引用的局部变量
+     1>f:\c++\my poem\my poem\my poem\my poemdlg.cpp(118): warning C4101: “j”: 未引用的局部变量
+     1>f:\c++\my poem\my poem\my poem\my poemdlg.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\my poem\my poem\my poem\my poemdlg.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\my poem\my poem\my poem\my poemdlg.cpp(238): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\my poem\my poem\my poem\my poemdlg.cpp(335): warning C4101: “i”: 未引用的局部变量
+     1>f:\c++\my poem\my poem\my poem\my poemdlg.cpp(335): warning C4101: “j”: 未引用的局部变量
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++\My Poem\My Poem\Debug\My Poem.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\C++\My Poem\My Poem\Debug\My Poem.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C++\My Poem\My Poem\Debug\My Poem.lib" /MACHINE:X86 "Debug\My Poem.res"
+         Debug\Control_poem.obj
+         Debug\Control_user.obj
+         Debug\Enroll.obj
+         Debug\Login.obj
+         "Debug\My Poem.obj"
+         "Debug\My PoemDlg.obj"
+         Debug\Person.obj
+         Debug\Poem.obj
+         Debug\stdafx.obj
+         Debug\User.obj
+         My Poem.vcxproj -> F:\C++\My Poem\My Poem\Debug\My Poem.exe
+     1>已完成生成项目“F:\C++\My Poem\My Poem\My Poem\My Poem.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.15
